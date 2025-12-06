@@ -16,9 +16,3 @@ Sou entusiasta de tecnologia e apaixonado por dados. Trabalho com Python, análi
 ## Contato
 Fique à vontade para explorar meus projetos, enviar feedback ou trocar ideias.
 
-
-Scraping de E-commerce: Coleta e organização de dados de produtos para análise de mercado.
-
-Contato
-
-Fique à vontade para explorar meus projetos, enviar feedback ou trocar ideias.
