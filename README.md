@@ -34,7 +34,7 @@ Atualmente, foco em transformar dados brutos em insights de negócio, utilizando
 - **Tech:** Python, NLTK, Scikit-Learn.
 - **Destaque:** Implementação de limpeza de texto (Regex), remoção de stopwords e vetorização com **TF-IDF**.
 
-#### 🏠 [Análise Exploratória - Airbnb Rio]([https://github.com/ReCroffi/rio-airbnb-eda])
+#### 🏠 [Análise Exploratória - Airbnb Rio](https://github.com/ReCroffi/rio-airbnb-eda)
 *Análise de dados reais para identificar padrões de preços e disponibilidade.*
 - **Tech:** Pandas, Matplotlib, Seaborn.
 - **Destaque:** Limpeza de outliers, tratamento de dados nulos e visualização de dados geoespaciais.
