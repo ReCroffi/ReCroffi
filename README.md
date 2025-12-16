@@ -46,9 +46,9 @@ Atualmente graduando em Ciência de Dados (Previsão: Dez/2027), meu foco é tra
 
 | Projeto | Descrição e Techs |
 | :--- | :--- |
-| **🎥 Análise de Sentimentos (IMDb)**  | (https://github.com/ReCroffi/sentiment-analysis-imdb) | Classificação de críticas de filmes utilizando **NLP**. <br> • *Destaque:* Limpeza com Regex, remoção de stopwords e vetorização TF-IDF.<br> • **Tech:** Python, NLTK, Scikit-Learn |
-| **🔄 Churn Prediction**  | (https://github.com/ReCroffi/churn-prediction)0 | Modelo preditivo para identificar cancelamento de clientes.<br> • *Destaque:* Análise de padrões de comportamento e métricas de classificação.<br> • **Tech:** Python, Pandas, Scikit-Learn, Random Forest|
-| **🏠 Análise Airbnb Rio**  | (https://github.com/ReCroffi/rio-airbnb-eda) | Análise exploratória em dados reais para identificar padrões de preços e disponibilidade.<br> • *Destaque:* Tratamento de outliers e visualização geoespacial.<br> • **Tech:** Pandas, Seaborn, Matplotlib |
+| **🎥 Análise de Sentimentos (IMDb)**| (https://github.com/ReCroffi/sentiment-analysis-imdb) | Classificação de críticas de filmes utilizando **NLP**. <br> • *Destaque:* Limpeza com Regex, remoção de stopwords e vetorização TF-IDF.<br> • **Tech:** Python, NLTK, Scikit-Learn |
+| **🔄 Churn Prediction** | (https://github.com/ReCroffi/churn-prediction)0 | Modelo preditivo para identificar cancelamento de clientes.<br> • *Destaque:* Análise de padrões de comportamento e métricas de classificação.<br> • **Tech:** Python, Pandas, Scikit-Learn, Random Forest|
+| **🏠 Análise Airbnb Rio** | (https://github.com/ReCroffi/rio-airbnb-eda) | Análise exploratória em dados reais para identificar padrões de preços e disponibilidade.<br> • *Destaque:* Tratamento de outliers e visualização geoespacial.<br> • **Tech:** Pandas, Seaborn, Matplotlib |
 
 ### 📂 Outros Projetos e Ferramentas
 
