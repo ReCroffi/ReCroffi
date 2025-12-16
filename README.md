@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Renan Croffi! 👋</h1>
-  <h3>Cientista de Dados em Formação | Bacharel em Física (UNESP)</h3>
+  <h3>Cientista de Dados em Formação </h3>
 </div>
 
 <br>
