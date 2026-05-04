@@ -45,7 +45,7 @@
       "background": "Física → Ciência de Dados",                        
       "status"    : "Aberto a oportunidades 🚀"                         
   }                                                                     
-  
+  ```
   ---                                                                   
   🛠️ Stack        
                                                                         
