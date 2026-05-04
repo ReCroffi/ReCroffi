@@ -1,13 +1,14 @@
  ## 👨‍🔬 Sobre mim
                                                                         
-  Sou **Físico em transição para Ciência de Dados** — trago o rigor     
-  matemático da academia para resolver problemas reais de negócio com
-  dados.                                                                
-                  
-  Graduando em **Ciência de Dados** (previsão: Dez/2027), com base      
-  analítica forjada na **UNESP**. Meu diferencial é enxergar padrões
-  onde outros veem ruído: modelagem preditiva, análise exploratória     
-  profunda e entrega de insights acionáveis para tomada de decisão.
+Tenho uma trajetória não-linear que virou vantagem: passei por        
+  **Física** e **Engenharia Elétrica** antes de encontrar meu foco em
+  **Ciência de Dados**. Cada etapa deixou um legado — raciocínio        
+  analítico, fundamentos matemáticos e pensamento de sistemas.
+
+  Graduando em **Ciência de Dados** (previsão: Dez/2027), aplico essa   
+  base técnica para transformar dados brutos em insights acionáveis:
+  modelagem preditiva, análise exploratória e soluções orientadas a     
+  negócio.        
 
   ```python                                                             
   renan = {
