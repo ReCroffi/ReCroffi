@@ -10,57 +10,61 @@ Tenho uma trajetória não-linear que virou vantagem: passei por
   modelagem preditiva, análise exploratória e soluções orientadas a     
   negócio.        
 
-  ```python                                                             
-  renan = {
-      "foco"      : ["Machine Learning", "EDA", "Analytics"],           
-      "stack"     : ["Python", "XGBoost", "SHAP", "Power BI",           
-  "FastAPI"],                                                           
-      "background": "Física → Ciência de Dados",                        
-      "status"    : "Aberto a oportunidades 🚀"                         
-  }               
-  ```                                                                      
+  | | |                                                                 
+  |---|---|
+  | 🎯 **Foco** | Machine Learning · EDA · Analytics |                  
+  | 🛠️ **Stack** | Python · XGBoost · SHAP · Power BI · FastAPI |
+  | 🎓 **Base** | STEM (Física + Eng. Elétrica) → Ciência de Dados |    
+  | 🚀 **Status** | Aberto a oportunidades |                            
+                                                                        
   ---                                                                   
-  🛠️ Stack
+  Bloco "Stack" — troque pelo este (badges com logos válidos):
                                                                         
-  Linguagens & Dados
+  ## 🛠️ Stack     
 
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=py
-  thon&logoColor=white
-  https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pa
-  ndas&logoColor=white                                                  
-  https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=num
-  py&logoColor=white                                                    
-  https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postg
-  resql&logoColor=white                                                 
+  **Linguagens & Dados**                                                
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-bad
+  ge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-bad
+  ge&logo=pandas&logoColor=white)                                       
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge
+  &logo=numpy&logoColor=white)                                          
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&log
+  o=postgresql&logoColor=white)                                         
+  
+  **Machine Learning & IA**                                             
                   
-  Machine Learning & IA                                                 
-                  
-  https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&
-  logo=scikit-learn&logoColor=white
-  https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=x
-  gboost&logoColor=white                                                
-  https://img.shields.io/badge/SHAP-1E3A5F?style=for-the-badge
-  https://img.shields.io/badge/Optuna-00BFFF?style=for-the-badge        
-                  
-  Visualização & BI                                                     
-                  
-  https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&log
-  o=powerbi&logoColor=black
-  https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=pl
-  otly&logoColor=white                                                  
-  https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge
-  https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge    
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?styl
+  e=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-b
+  adge)                                                                 
+  ![SHAP](https://img.shields.io/badge/SHAP-1E3A5F?style=for-the-badge)
+  ![Optuna](https://img.shields.io/badge/Optuna-00BFFF?style=for-the-bad
+  ge)                                                                   
                                                                         
-  Deploy & Ferramentas                                                  
-                                                                        
-  https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=f
-  astapi&logoColor=white
-  https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=j
-  upyter&logoColor=white                                                
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&l
-  ogoColor=white                                                        
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=lin
-  ux&logoColor=black                                                    
+  **Visualização & BI**                                                 
+                  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-t
+  he-badge&logo=powerbi&logoColor=black)
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-bad
+  ge&logo=plotly&logoColor=white)                                       
+  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-b
+  adge)                                                                 
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for
+  -the-badge)                                                           
+                  
+  **Deploy & Ferramentas**                                              
+  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-b
+  adge&logo=fastapi&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-b
+  adge&logo=jupyter&logoColor=white)                                    
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&log
+  o=git&logoColor=white)                                                
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge
+  &logo=linux&logoColor=black)                                          
+                                                                  
   
   ---                                                                   
   📂 Projetos em Destaque
