@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Renan%20Croffi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20%26%20Machine%20Learning&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
+# Renan Croffi
+**Dados & Machine Learning** · Python · SQL · Análise ponta a ponta
 
 </div>
 
@@ -118,12 +119,7 @@ em decisão: SQL, análise exploratória, modelagem preditiva e pipelines reprod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ReCroffi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReCroffi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ReCroffi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReCroffi&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
-</div>
