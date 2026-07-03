@@ -1,125 +1,106 @@
-<div align="center">
+<p align="center">
+<img src="assets/banner-github.png">
+</p>
 
-# Renan Croffi
-**Dados & Machine Learning** · Python · SQL · Análise ponta a ponta
 
-</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/renancroffi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/croffi">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:renancroffi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+# Olá! 👋 Sou o Renan Croffi
 
-<br/>
+Sou estudante de Ciência de Dados com interesse em transformar dados em informações úteis para apoiar decisões e resolver problemas reais.
 
-### 🔭 Buscando vaga Júnior de Dados (Analista / Cientista) — São Paulo (híbrido). Aberto a oportunidades.
+Minha trajetória combina uma sólida base quantitativa, construída durante os estudos em Física e Engenharia Elétrica, com desenvolvimento contínuo em Análise de Dados, Python, SQL e Estatística.
 
-## 👨‍🔬 Sobre mim
-
-Trajetória não-linear que virou vantagem: passei por **Física** e **Engenharia
-Elétrica** antes de focar em **Ciência de Dados**. Cada etapa deixou raciocínio
-analítico, fundamentos matemáticos e pensamento de sistemas.
-
-Graduando em **Ciência de Dados** (previsão: Dez/2027), transformo dados brutos
-em decisão: SQL, análise exploratória, modelagem preditiva e pipelines reprodutíveis.
-
-| | |
-|---|---|
-| 🎯 **Foco** | SQL · Analytics · Machine Learning · Pipelines |
-| 🛠️ **Stack** | Python · SQL · scikit-learn · Power BI · DuckDB |
-| 📚 **Aprendendo** | PySpark · Databricks |
-| 🎓 **Base** | STEM (Física + Eng. Elétrica) → Ciência de Dados |
+Atualmente construo projetos práticos para desenvolver minhas habilidades técnicas e documentar minha evolução profissional.
 
 ---
 
-## 🛠️ Stack
+## 🎯 Objetivo
 
-**Linguagens & Dados**
+Construir uma carreira na área de Dados, aplicando pensamento analítico, programação e estatística para gerar soluções de alto impacto.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+Tenho especial interesse em:
 
-**Machine Learning & Stats**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-1E3A5F?style=for-the-badge)
-
-**Visualização & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Data Analytics
+- Business Intelligence
+- Data Science
+- Engenharia de Dados
+- Mercado Financeiro
 
 ---
 
-## 📂 Projetos em Destaque
+## 🛠 Tecnologias
 
-### 🛒 [Análise de E-commerce — Olist](https://github.com/ReCroffi/olist-ecommerce-analysis)
-> Pipeline reprodutível (Python · SQL · DuckDB) sobre dados de e-commerce brasileiro
+### Linguagens
 
-- Atraso na entrega **derruba a nota de review de 4,29 → 2,27**
-- **Nordeste concentra 2× mais atrasos** (12,7%) que o Sul (~6%)
-- SQL com JOIN, CTE, window function e agregação condicional; correção documentada de *grain* em JOIN
+- Python
+- SQL
 
-`Python` `SQL` `DuckDB` `Pandas`
+### Bibliotecas
 
----
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
 
-### 🏦 [Bank Churn Prediction](https://github.com/ReCroffi/bank-churn-prediction)
-> Previsão de churn bancário com modelo e dashboard executivo em Power BI
+### Ferramentas
 
-- Modelo (Random Forest / LogReg) com **ROC AUC 0,84** + threshold tuning
-- Segmentação de risco: **alto risco 53% de churn** vs. **4%** no baixo
-- Dashboard interativo em **Power BI** com KPIs para decisão gerencial
-
-`Python` `scikit-learn` `Pandas` `Power BI`
-
----
-
-### 🎬 [Recomendação de Filmes](https://github.com/ReCroffi/Recomendacao-de-Filmes)
-> Recomendador por similaridade de sinopse (NLP) com app em Streamlit
-
-- **TF-IDF + similaridade de cosseno** para sugerir os 5 filmes mais próximos
-- Integração com a **API do TMDB** (pôster e nota em tempo real)
-- App web em **Streamlit**
-
-`Python` `scikit-learn` `NLP` `Streamlit`
+- Git
+- GitHub
+- Jupyter Notebook
+- Power BI
+- Excel
 
 ---
 
-### 🏠 [Rio de Janeiro Airbnb — EDA](https://github.com/ReCroffi/rio-airbnb-eda)
-> Análise exploratória de precificação de aluguéis no Rio
+## 📂 Projetos em destaque
 
-- Localização como principal driver: diferença de até **42×** entre bairros
-- Mapeamento geográfico de zonas premium (Copacabana, Barra da Tijuca)
-- Visualizações interativas com **Plotly**
+### 📊 Análise Exploratória de Dados — Airbnb Rio
 
-`Python` `Pandas` `Plotly` `Seaborn`
+Análise de preços, localização e características dos imóveis utilizando Python e visualização de dados.
 
 ---
 
-## 📊 GitHub Stats
+### ❤️ Predição de Churn Bancário
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ReCroffi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReCroffi&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+Modelo de Machine Learning para prever cancelamento de clientes utilizando Scikit-Learn.
 
+---
+
+### 🎬 Análise de Sentimentos — IMDb
+
+Classificação de avaliações utilizando Processamento de Linguagem Natural (NLP).
+
+---
+
+### 📈 SQL para Análise de Dados
+
+Coleção de consultas SQL utilizando JOINs, CTEs, agregações e funções analíticas.
+
+---
+
+## 📚 Atualmente estudando
+
+- Mathematics for Machine Learning (Coursera)
+- Estatística
+- Engenharia de Dados
+- Power BI
+- SQL Avançado
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português (Nativo)
+- 🇺🇸 Inglês (C2 – EF SET)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/renancroffi
+- GitHub: https://github.com/ReCroffi
+
+---
+
+> "Dados contam histórias. Meu objetivo é aprender a interpretá-las para apoiar melhores decisões."
