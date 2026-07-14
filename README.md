@@ -18,160 +18,58 @@ Transformando dados em informação para apoiar decisões.
 
 ## Sobre
 
-Olá!
 
-Sou estudante de Ciência de Dados e estou construindo minha carreira desenvolvendo projetos práticos que unem programação, análise estatística e resolução de problemas.
+# Olá, eu sou o Renan 👋
 
-Minha formação anterior em Física e Engenharia Elétrica fortaleceu minha base quantitativa e despertou um interesse duradouro por matemática aplicada, modelagem e pensamento analítico.
+### Cientista de Dados | Machine Learning
 
-Hoje concentro meus estudos em Análise de Dados, Engenharia de Dados e Business Intelligence, sempre buscando transformar conhecimento em soluções práticas, bem documentadas e reproduzíveis.
-
----
-
-## Áreas de Interesse
-
-- Data Analytics
-- Business Intelligence
-- Engenharia de Dados
-- Data Science
-- Mercado Financeiro
-- Automação de Processos
+Base quantitativa em **Física e Engenharia Elétrica**, cursando Tecnólogo em Ciência de Dados. Trabalho no ciclo completo de projetos de dados — da extração e tratamento à **modelagem preditiva** e à comunicação de resultados —, sempre com foco em transformar dados em decisões de negócio mensuráveis. Interesse no mercado financeiro.
 
 ---
 
-## Stack Tecnológica
+### 🧰 Stack
 
-### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/ogo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=w
+hite)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### Análise de Dados
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+**Áreas:** Machine Learning · Feature Engineering · SQL ·
+BI/Visualização
 
 ---
 
-### Ferramentas
+### 🚀 Projetos em destaque
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
----
-
-# Projetos em Destaque
-
-## Análise Exploratória de Dados — Airbnb Rio
-
-Análise de preços, localização e características dos imóveis utilizando Python e técnicas de visualização de dados.
-
-➡️ **Ver Projeto**
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**MML from Scratch**](https://github.com/ReCroffi/mml-from-scratch) | PCA e regressão
+linear implementados do zero (iente descendente e equaçõesnormais), validados contra o scikit-learn | NumPy · Scikit-learn · pytest · GitHub Actions
+|
+| [**Bank Churn Prediction**](ank-churn-prediction) | Modelo
+de classificação que separou c churn) de Baixo Risco (4%) —
+diferença de 13× — com dashboas · Scikit-learn · Power BI |
+| [**Olist E-commerce Analysisfi/olist-ecommerce-analysis) |Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas
+baixas (pipeline ingestão → li Python · Pandas · DuckDB (SQL)
+· Matplotlib |
+| [**Recomendação de Filmes**]Recomendacao-de-Filmes) |
+Sistema de recomendação por co de cosseno) com interface web
+e integração à API do TMDB | P Streamlit |
 
 ---
 
-## Predição de Churn Bancário
+### 🎓 Formação & Certificaçõe
 
-Modelo supervisionado utilizando Scikit-Learn para prever cancelamento de clientes.
+- **Tecnólogo em Ciência de Danto)
+- **Mathematics for Machine Lenear Algebra, Multivariate
+Calculus, PCA) · Imperial Coll
+- Formação anterior em **Engen
+- **Inglês C2** — EF SET (80/1
 
-➡️ **Ver Projeto**
-
----
-
-## Análise de Sentimentos — IMDb
-
-Projeto de NLP utilizando processamento de linguagem natural para classificação de avaliações.
-
-➡️ **Ver Projeto**
-
----
-
-## SQL para Análise de Dados
-
-Coleção de consultas envolvendo JOINs, CTEs, Window Functions e análises exploratórias.
-
-➡️ **Ver Projeto**
-
----
-
-# Atualmente estudando
-
-- Mathematics for Machine Learning (Coursera)
-- Estatística
-- SQL Avançado
-- Engenharia de Dados
-- Power BI
-- Apache Spark (Roadmap)
-
----
-
-# Roadmap
-
-```text
-██████████░░░░░░░░  Python
-
-████████░░░░░░░░░░  SQL
-
-███████░░░░░░░░░░░ Estatística
-
-████░░░░░░░░░░░░░░ Power BI
-
-███░░░░░░░░░░░░░░░ Engenharia de Dados
-
-██░░░░░░░░░░░░░░░░ Cloud
-
-█░░░░░░░░░░░░░░░░░ Apache Spark
-```
-
----
-
-# Atualmente
-
-🎓 Ciência de Dados
-
-📚 Roadmap.sh — Data Analyst
-
-📈 Desenvolvimento contínuo através de projetos práticos
-
-🌎 Inglês C2 (EF SET)
-
----
-
-# Contato
-
-<p align="left">
-
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:renancroffi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-**Aprender continuamente • Documentar com clareza • Resolver problemas com dados**
-
-</p>
+---                                                                                       ### 📫 Contato[![LinkedIn](https://img.shieltyle=flat&logo=linkedin&logoColor=white)](https://linkedin.co
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renancroffi@gmail.com
