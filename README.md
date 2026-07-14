@@ -72,6 +72,7 @@ Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com i
 
 ---  
 ### 📫 Contato
-![LinkedIn](https://img.shieltyle=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/renancroffi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/renancroffi)
+kedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/renancroffi)
 
 ![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renancroffi@gmail.com)
