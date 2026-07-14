@@ -61,6 +61,8 @@ Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entreg
 Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com interface web e integração à API do TMDB.
 `Python` · `Scikit-learn` · `NLTK` · `Streamlit`
 
+---
+
 ### 🎓 Formação & Certificaçõe
 
 - **Tecnólogo em Ciência de Danto)
