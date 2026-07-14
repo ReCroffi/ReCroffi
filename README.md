@@ -36,8 +36,7 @@ Base quantitativa em **Física e Engenharia Elétrica**, cursando Tecnólogo em 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/ogo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=w
-hite)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Áreas:** Machine Learning · Feature Engineering · SQL ·
 BI/Visualização
@@ -46,22 +45,21 @@ BI/Visualização
 
 ### 🚀 Projetos em destaque
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**MML from Scratch**](https://github.com/ReCroffi/mml-from-scratch) | PCA e regressão
-linear implementados do zero (iente descendente e equaçõesnormais), validados contra o scikit-learn | NumPy · Scikit-learn · pytest · GitHub Actions
-|
-| [**Bank Churn Prediction**](ank-churn-prediction) | Modelo
-de classificação que separou c churn) de Baixo Risco (4%) —
-diferença de 13× — com dashboas · Scikit-learn · Power BI |
-| [**Olist E-commerce Analysisfi/olist-ecommerce-analysis) |Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas
-baixas (pipeline ingestão → li Python · Pandas · DuckDB (SQL)
-· Matplotlib |
-| [**Recomendação de Filmes**]Recomendacao-de-Filmes) |
-Sistema de recomendação por co de cosseno) com interface web
-e integração à API do TMDB | P Streamlit |
+**🔬 [MML from Scratch](https://github.com/ReCroffi/mml-from-scratch)**
+PCA e regressão linear implementados do zero (autovalores/autovetores, gradiente descendente e equações normais), validados contra o scikit-learn.
+`NumPy` · `Scikit-learn` · `pytest` · `GitHub Actions`
 
----
+**📉 [Bank Churn Prediction](https://github.com/ReCroffi/bank-churn-prediction)**
+Modelo de classificação que separou clientes de Alto Risco (53% de churn) de Baixo Risco (4%) — diferença de 13× — com dashboard executivo.
+`Python` · `Pandas` · `Scikit-learn` · `Power BI`
+
+**🛒 [Olist E-commerce Analysis](https://github.com/ReCroffi/olist-ecommerce-analysis)**
+Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas baixas (pipeline ingestão → limpeza → SQL → visualização).
+`Python` · `Pandas` · `DuckDB (SQL)` · `Matplotlib`
+
+**🎬 [Recomendação de Filmes](https://github.com/ReCroffi/Recomendacao-de-Filmes)**
+Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com interface web e integração à API do TMDB.
+`Python` · `Scikit-learn` · `NLTK` · `Streamlit`
 
 ### 🎓 Formação & Certificaçõe
 
@@ -71,5 +69,7 @@ Calculus, PCA) · Imperial Coll
 - Formação anterior em **Engen
 - **Inglês C2** — EF SET (80/1
 
----                                                                                       ### 📫 Contato[![LinkedIn](https://img.shieltyle=flat&logo=linkedin&logoColor=white)](https://linkedin.co
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renancroffi@gmail.com
+---  
+### 📫 Contato
+![LinkedIn](https://img.shieltyle=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/renancroffi)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:renancroffi@gmail.com)
