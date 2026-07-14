@@ -35,7 +35,7 @@ Base quantitativa em **Física e Engenharia Elétrica**, cursando Tecnólogo em 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/ogo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Áreas:** Machine Learning · Feature Engineering · SQL ·
@@ -63,13 +63,12 @@ Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com i
 
 ---
 
-### 🎓 Formação & Certificaçõe
+### 🎓 Formação & Certificações
 
 - **Tecnólogo em Ciência de Danto)
-- **Mathematics for Machine Lenear Algebra, Multivariate
-Calculus, PCA) · Imperial Coll
-- Formação anterior em **Engen
-- **Inglês C2** — EF SET (80/1
+- **Mathematics for Machine Linear Algebra, Multivariate Calculus, PCA) · Imperial College London / Coursera
+- Formação anterior em **Engenharia Elétrica** e **Física**
+- **Inglês C2** — EF SET (80/100)
 
 ---  
 ### 📫 Contato
