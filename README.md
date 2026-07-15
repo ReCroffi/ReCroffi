@@ -66,7 +66,7 @@ Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com i
 ### 🎓 Formação & Certificações
 
 - **Tecnólogo em **Ciência de dados**
-- **Mathematics for Machine Linear Algebra, Multivariate Calculus, PCA) · Imperial College London / Coursera
+- ****Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera
 - Formação anterior em **Engenharia Elétrica** e **Física**
 - **Inglês C2** — EF SET (80/100)
 
