@@ -7,7 +7,7 @@
 <h1 align="center">Renan Croffi</h1>
 
 <p align="center">
-  <strong>Data Analytics • Python • SQL • Business Intelligence</strong>
+  <strong>Ciência de Dados • Machine Learning • Back-end Python • SQL</strong>
 </p>
 
 <p align="center">
@@ -18,9 +18,11 @@ Transformando dados em informação para apoiar decisões.
 
 ## Sobre
 
-### Cientista de Dados | Machine Learning
+### Cientista de Dados · Desenvolvedor Back-end Python
 
 Base quantitativa em **Física e Engenharia Elétrica**, cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** (FATEC Olímpia/SP). Trabalho no ciclo completo de projetos de dados — da extração e tratamento à **modelagem preditiva** e à comunicação de resultados —, sempre com foco em transformar dados em decisões de negócio mensuráveis. Interesse no mercado financeiro.
+
+Em paralelo, direciono a formação em DSM para **desenvolvimento back-end em Python** — a mesma base de Python, SQL e modelagem de dados aplicada à construção de APIs e serviços.
 
 ---
 
