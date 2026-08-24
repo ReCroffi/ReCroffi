@@ -18,12 +18,9 @@ Transformando dados em informação para apoiar decisões.
 
 ## Sobre
 
-
-# Olá, eu sou o Renan 👋
-
 ### Cientista de Dados | Machine Learning
 
-Base quantitativa em **Física e Engenharia Elétrica**, cursando Tecnólogo em Ciência de Dados. Trabalho no ciclo completo de projetos de dados — da extração e tratamento à **modelagem preditiva** e à comunicação de resultados —, sempre com foco em transformar dados em decisões de negócio mensuráveis. Interesse no mercado financeiro.
+Base quantitativa em **Física e Engenharia Elétrica**, cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** (FATEC Olímpia/SP). Trabalho no ciclo completo de projetos de dados — da extração e tratamento à **modelagem preditiva** e à comunicação de resultados —, sempre com foco em transformar dados em decisões de negócio mensuráveis. Interesse no mercado financeiro.
 
 ---
 
@@ -57,7 +54,7 @@ Modelo de classificação que separou clientes de Alto Risco (53% de churn) de B
 Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas baixas (pipeline ingestão → limpeza → SQL → visualização).
 `Python` · `Pandas` · `DuckDB (SQL)` · `Matplotlib`
 
-**🎬 [Recomendação de Filmes](https://github.com/ReCroffi/Recomendacao-de-Filmes)**
+**🎬 [Recomendação de Filmes](https://github.com/ReCroffi/recomendacao-de-filmes)**
 Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com interface web e integração à API do TMDB.
 `Python` · `Scikit-learn` · `NLTK` · `Streamlit`
 
@@ -65,12 +62,20 @@ Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com i
 
 ### 🎓 Formação & Certificações
 
-- Tecnólogo em **Ciência de dados**
+- Cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** — FATEC Olímpia/SP
 - **Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera
 - Formação anterior em **Engenharia Elétrica** e **Física**
 - **Inglês C2** — EF SET (80/100)
 
----  
+---
+
+### 🏫 Faculdade
+
+- [**fatec-dsm**](https://github.com/ReCroffi/fatec-dsm) — atividades e exercícios do curso, organizados por semestre e matéria
+- [**projeto-1-semestre**](https://github.com/ReCroffi/projeto-1-semestre) — projeto integrador de extensão, em grupo
+
+---
+
 ### 📫 Contato
 - **LinkedIn:** [linkedin.com/in/renancroffi](https://linkedin.com/in/renancroffi)
 - **E-mail:** renancroffi@gmail.com
