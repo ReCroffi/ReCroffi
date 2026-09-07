@@ -71,7 +71,7 @@ Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entreg
 ### 🎓 Formação & Certificações
 
 - Cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** — FATEC Olímpia/SP
-- **Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera
+- **Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera — [verificar](https://coursera.org/verify/specialization/YHCO1L7BLOGR)
 - **Introduction to Back-End Development** · Meta / Coursera — [verificar](https://coursera.org/verify/WX92VEYNJ03Y)
 - Formação anterior em **Engenharia Elétrica** e **Física**
 - **Inglês C2** — EF SET (80/100)
