@@ -26,22 +26,6 @@ Em paralelo, direciono a formação em DSM para **desenvolvimento back-end em Py
 
 ---
 
-### 🧰 Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Áreas:** Machine Learning · Feature Engineering · SQL ·
-BI/Visualização
-
----
-
 ### 🚀 Projetos em destaque
 
 #### ⭐ [Secure Vault](https://github.com/ReCroffi/secure-vault)
@@ -56,21 +40,31 @@ Gerenciador de senhas com criptografia ponta a ponta: senha mestra nunca persist
 ![cryptography](https://img.shields.io/badge/cryptography-AES%20%2F%20Argon2id-black?style=flat)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-`Python` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `cryptography` · `argon2-cffi` · `typer` · `textual` · `zxcvbn` · `pytest`
-
 ---
 
 **🔬 [MML from Scratch](https://github.com/ReCroffi/mml-from-scratch)**
 PCA e regressão linear implementados do zero (autovalores/autovetores, gradiente descendente e equações normais), validados contra o scikit-learn.
-`NumPy` · `Scikit-learn` · `pytest` · `GitHub Actions`
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **📉 [Bank Churn Prediction](https://github.com/ReCroffi/bank-churn-prediction)**
 Modelo de classificação que separou clientes de Alto Risco (53% de churn) de Baixo Risco (4%) — diferença de 13× — com dashboard executivo.
-`Python` · `Pandas` · `Scikit-learn` · `Power BI`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **🛒 [Olist E-commerce Analysis](https://github.com/ReCroffi/olist-ecommerce-analysis)**
 Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas baixas (pipeline ingestão → limpeza → SQL → visualização).
-`Python` · `Pandas` · `DuckDB (SQL)` · `Matplotlib`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ---
 
