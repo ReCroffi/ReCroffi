@@ -44,6 +44,22 @@ BI/Visualização
 
 ### 🚀 Projetos em destaque
 
+#### ⭐ [Secure Vault](https://github.com/ReCroffi/secure-vault)
+Gerenciador de senhas com criptografia ponta a ponta: senha mestra nunca persistida (hash Argon2id), chave de criptografia derivada em memória, credenciais cifradas com AES antes de tocar o banco, geração de senha com CSPRNG (`secrets`) e TUI interativa.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-informational?style=flat&color=6BA539)
+![Typer](https://img.shields.io/badge/Typer-000000?style=flat&logo=python&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual-4B0082?style=flat)
+![cryptography](https://img.shields.io/badge/cryptography-AES%20%2F%20Argon2id-black?style=flat)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+`Python` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `cryptography` · `argon2-cffi` · `typer` · `textual` · `zxcvbn` · `pytest`
+
+---
+
 **🔬 [MML from Scratch](https://github.com/ReCroffi/mml-from-scratch)**
 PCA e regressão linear implementados do zero (autovalores/autovetores, gradiente descendente e equações normais), validados contra o scikit-learn.
 `NumPy` · `Scikit-learn` · `pytest` · `GitHub Actions`
@@ -56,16 +72,13 @@ Modelo de classificação que separou clientes de Alto Risco (53% de churn) de B
 Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas baixas (pipeline ingestão → limpeza → SQL → visualização).
 `Python` · `Pandas` · `DuckDB (SQL)` · `Matplotlib`
 
-**🎬 [Recomendação de Filmes](https://github.com/ReCroffi/recomendacao-de-filmes)**
-Sistema de recomendação por conteúdo (TF-IDF + similaridade de cosseno) com interface web e integração à API do TMDB.
-`Python` · `Scikit-learn` · `NLTK` · `Streamlit`
-
 ---
 
 ### 🎓 Formação & Certificações
 
 - Cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** — FATEC Olímpia/SP
 - **Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera
+- **Introduction to Back-End Development** · Meta / Coursera — [verificar](https://coursera.org/verify/WX92VEYNJ03Y)
 - Formação anterior em **Engenharia Elétrica** e **Física**
 - **Inglês C2** — EF SET (80/100)
 
