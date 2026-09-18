@@ -7,22 +7,22 @@
 <h1 align="center">Renan Croffi</h1>
 
 <p align="center">
-  <strong>Ciência de Dados • Machine Learning • Back-end Python • SQL</strong>
+  <strong>Back-end Python • SQL • Ciência de Dados • Machine Learning</strong>
 </p>
 
 <p align="center">
-Transformando dados em informação para apoiar decisões.
+Do banco de dados à API: construindo software com base sólida em dados.
 </p>
 
 ---
 
 ## Sobre
 
-### Cientista de Dados · Desenvolvedor Back-end Python
+### Desenvolvedor Back-end Python · Cientista de Dados
 
-Base quantitativa em **Física e Engenharia Elétrica**, cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** (FATEC Olímpia/SP). Trabalho no ciclo completo de projetos de dados — da extração e tratamento à **modelagem preditiva** e à comunicação de resultados —, sempre com foco em transformar dados em decisões de negócio mensuráveis. Interesse no mercado financeiro.
+Base quantitativa em **Física e Engenharia Elétrica**, cursando **Tecnologia em Desenvolvimento de Software Multiplataforma** (FATEC Olímpia/SP) — foco atual em **desenvolvimento back-end com Python**: modelagem de banco de dados, APIs, testes automatizados e fluxo completo de Git/GitHub (issue → branch → PR).
 
-Em paralelo, direciono a formação em DSM para **desenvolvimento back-end em Python** — a mesma base de Python, SQL e modelagem de dados aplicada à construção de APIs e serviços.
+Em paralelo, sigo a formação em **Ciência de Dados** (Anhanguera), aplicando a mesma base de Python, SQL e modelagem de dados a extração, tratamento e modelagem preditiva — interesse no mercado financeiro.
 
 ---
 
@@ -42,6 +42,15 @@ Gerenciador de senhas com criptografia ponta a ponta: senha mestra nunca persist
 
 ---
 
+**⚙️ [E-commerce Behavior Analysis](https://github.com/ReCroffi/ecommerce-behavior-analysis)**
+Pipeline de ML ponta a ponta sobre 42M+ eventos de clickstream: propensão de compra com XGBoost + Optuna, segmentação RFM, explicabilidade via SHAP e modelo servido por um endpoint FastAPI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-informational?style=flat&color=EB6C2D)
+![Optuna](https://img.shields.io/badge/Optuna-informational?style=flat&color=0078D4)
+![SHAP](https://img.shields.io/badge/SHAP-informational?style=flat&color=8A2BE2)
+
 **🔬 [MML from Scratch](https://github.com/ReCroffi/mml-from-scratch)**
 PCA e regressão linear implementados do zero (autovalores/autovetores, gradiente descendente e equações normais), validados contra o scikit-learn.
 
@@ -57,14 +66,6 @@ Modelo de classificação que separou clientes de Alto Risco (53% de churn) de B
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-**🛒 [Olist E-commerce Analysis](https://github.com/ReCroffi/olist-ecommerce-analysis)**
-Análise ponta a ponta do e-commerce brasileiro: o que explica atrasos de entrega e notas baixas (pipeline ingestão → limpeza → SQL → visualização).
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ---
 
