@@ -73,7 +73,7 @@ Modelo de classificação que separou clientes de Alto Risco (53% de churn) de B
 
 - Cursando, em simultâneo, **Tecnologia em Desenvolvimento de Software Multiplataforma** (FATEC Olímpia/SP) e **Ciência de Dados** (Anhanguera)
 - **Especialização** - Mathematics for Machine Learning · Imperial College London / Coursera — [verificar](https://coursera.org/verify/specialization/YHCO1L7BLOGR)
-- **Introduction to Back-End Development** · Meta / Coursera — [verificar](https://coursera.org/verify/WX92VEYNJ03Y)
+- **Especialização Meta Back-End Developer** · Coursera — 3/9 concluídos: [Introduction to Back-End Development](https://coursera.org/verify/WX92VEYNJ03Y) · [Programming in Python](https://coursera.org/verify/06VRWVHOMNZ0) · [Version Control](https://coursera.org/verify/12FP1W1MM4SL)
 - Passagem por **Engenharia Elétrica** e **Física** (cursados, sem conclusão)
 - **Inglês C2** — EF SET (80/100)
 
