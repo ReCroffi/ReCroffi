@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReCroffi/ReCroffi/main/assets/banner-logo.png?v=b9246a16" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ReCroffi/ReCroffi/main/assets/banner-soc.png?v=1" alt="Banner" width="100%">
 </p>
 
 <br>
